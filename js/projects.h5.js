@@ -1,0 +1,22 @@
+;(function($){
+	$(function(){
+		$('body').singleTap(function(){
+			alert('singleTap');
+		});
+		$('body').doubleTap(function(){
+			alert('doubleTap');
+		});
+		$('body').swipeLeft(function(){
+			alert('swipeLeft');
+		});
+		$('body').swipeRight(function(){
+			alert('swipeRight');
+		});
+		$('body').swipeUp(function(){
+			alert('swipeUp');
+		});
+		$('body').swipeDown(function(){
+			alert('swipeDown');
+		});
+	});
+})(Zepto);

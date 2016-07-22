@@ -1,0 +1,176 @@
+{
+  "name": "张腾飞",
+  "birthday": "1991",
+  "phone": "18565012419",
+  "email": "18565012419@163.com",
+  "motto": "YES,I Code.",
+  "college": "惠州学院",
+  "major": "土木工程",
+  "degree": "本科",
+  "work": "前端开发工程师",
+  "lab": "2011.9-2015.7",
+  "hobby": [
+    "篮球（我的最爱）",
+    "写代码（人生最大乐趣）",
+    "浏览网页（没事时到处寻找设计精美的网页）",
+    "跑步",
+    "听歌"
+  ],
+  "evaluation": [
+    "善于在生活中学习，对美比较敏感，每当看到设计精美的网页，总会细细品味、学习并任性的收藏",
+    "完美主义者，对自己的作品要求较高",
+    "热爱一件事物就一定要做好，时常因此“废寝忘食”",
+    "热爱运动，热爱双节棍，并有多次校内外表演经历",
+    "乐观向上、性格坚韧、富于团队精神，有较强团队协作及组织能力；曾创建校双节棍社，现任西邮移动应用开发实验室(原3G)Web组组长"
+  ],
+  "skill": [
+    {
+      "HTML": "75%-#FCC748",
+      "CSS": "75%-#CDF0E9",
+      "JavaScript": "70%-#BADF90",
+      "jQuery": "60%-#F2B88B",
+      "Ajax": "50%-#91E0F1",
+      "PHP": "35%-#14CDD6",
+      "NodeJs": "30%-#F36B6B",
+      "CSS3": "35%-#29DE6B",
+      "HTML5": "40%-#FFF228",
+      "MongoDb": "30%-#F78EA6",
+      "MySQL": "50%-#17C8A8",
+      "PhotoShop": "60%-#81A8F6"
+    }
+  ],
+  "practice": [
+    {
+      "name": "imovie",
+      "logo": "url('./images/ico_bg.png') -220px -570px no-repeat",
+      "time": "2016/06/7-2015/07/18",
+      "dept": "Angular-单页面应用",
+      "work": "前端开发",
+      "link": "http://www.mogujie.com",
+      "info": ""
+    }
+  ],
+  "coding": [
+    {
+      "name": "",
+      "bg": "",
+      "type": "",
+      "link": "",
+      "time": "",
+      "work": "",
+      "info": ""
+    }
+  ],
+  "project": [
+    {
+      "name": "广州齐昌网络科技有限公司-前端工程师",
+      "bg_color": "#f5e653",
+      "bg_image": "",
+      "type": "h5",
+      "link": "",
+      "time": "2015.6 - 至今 ",
+      "work": "快速精确还原设计图，并且对主流浏览器做兼容性处理。",
+      "info": "移动Web项目，后期将打包成移动App。本项目主要包含世界（心里话的倾诉（公开或私密），备忘记录）、天气（天气查询）、静静（烦躁、伤心、失落、犯错、失恋时通过音乐或图片使得到暂时平静与放松）。目前，只实现单用户版。后台使用ThinkPHP编写Api，前台通过Ajax调用解析Api进行数据交互。"
+    },
+    {
+      "name": "惠州优创智投科技有限公司-前端工程师（实习）",
+      "bg_color": "rgb(146,246,237)",
+      "bg_image": "",
+      "type": "h5",
+      "link": "http://search.ztf.me",
+      "time": "2014.2-2015.6 ",
+      "work": "独立完成，负责页面设计及编码。",
+      "info": ""
+    },
+    {
+      "name": "前端导航（Front-End Guide）",
+      "bg_color": "#eb5055",
+      "bg_image": "",
+      "type": "pc",
+      "link": "http://frontend.ztf.me",
+      "time": "2015/06-2015/06",
+      "work": "独立完成，负责页面设计及编码。",
+      "info": "实现了前端学习快捷导航，包含圈子、资源库、免费素材、数据接口/平台、实用工具、CSS/HTML、JavaScript、移动端/响应式、找工作等模块。主要运用Ajax请求json文件，解析json显示数据。"
+    },
+    {
+      "name": "",
+      "bg_color": "",
+      "bg_image": "",
+      "type": "",
+      "link": "",
+      "time": "",
+      "work": "",
+      "info": ""
+    },
+    {
+      "name": "",
+      "bg_color": "",
+      "bg_image": "",
+      "type": "",
+      "link": "",
+      "time": "",
+      "work": "",
+      "info": ""
+    },
+    {
+      "name": "",
+      "bg_color": "",
+      "bg_image": "",
+      "type": "",
+      "link": "",
+      "time": "",
+      "work": "",
+      "info": ""
+    },
+    {
+      "name": "",
+      "bg_color": "",
+      "bg_image": "",
+      "type": "",
+      "link": "",
+      "time": "",
+      "work": "",
+      "info": ""
+    },
+    {
+      "name": "",
+      "bg_color": "",
+      "bg_image": "",
+      "type": "",
+      "link": "",
+      "time": "",
+      "work": "",
+      "info": ""
+    },
+    {
+      "name": "",
+      "bg_color": "",
+      "bg_image": "",
+      "type": "",
+      "link": "",
+      "time": "",
+      "work": "",
+      "info": ""
+    },
+    {
+      "name": "",
+      "bg_color": "",
+      "bg_image": "",
+      "type": "",
+      "link": "",
+      "time": "",
+      "work": "",
+      "info": ""
+    },
+    {
+      "name": "",
+      "bg_color": "",
+      "bg_image": "",
+      "type": "",
+      "link": "",
+      "time": "",
+      "work": "",
+      "info": ""
+    }
+  ]
+}
