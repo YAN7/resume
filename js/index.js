@@ -52,10 +52,10 @@ $(document).ready(function(){
 										'<a href="'+aProject[proj].link+'" target="_blank">'+aProject[proj].name+'</a>'+
 									'</div>'+
 									'<div class="project-list-work">'+
-										'<span class="list-title">职能分工：</span>'+aProject[proj].work+
+										'<span class="list-title">项目简介：</span>'+aProject[proj].work+
 									'</div>'+
 									'<div class="project-list-info">'+
-										'<span class="list-title">项目简介：</span>'+aProject[proj].info+
+										'<span class="list-title">职能分工：</span>'+aProject[proj].info+
 									'</div>'+
 								'</div>'+
 							'</div>');
