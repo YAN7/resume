@@ -617,7 +617,6 @@ nav{
     /* height: 500px; */
     height: 70vh;
     top: 620vh;
-
     /* margin-left: 50%; */
     /* margin-top: 50%; */
     background: rgba(255, 255, 255, 0.1);
@@ -676,13 +675,15 @@ nav{
     position: relative;
 }
 .war-content-8 footer{
-    height: 15%;
-    padding-top: 4%;
+    /* height: 15%; */
+    padding-top: 5vh;
     background: rgba(255,255,255,0.3);
     border-top: 4px solid rgba(255,255,255,0.1);
     position: absolute;
     bottom: 0;
-    width: 100%;
+    /* width: 100%; */
+    width: 100vw;
+    height: 15vh;
 }
 .message-callMe{
     position: absolute;
@@ -703,7 +704,10 @@ nav{
 }
 .callMe-war{
     overflow: hidden;
-    width: 1040px;
+    margin-top: 7vh;
+    /* width: 1040px; */
+    width: 80vw;
+    margin-left: 10vw;
     margin: 0 auto;
 }
 .callMe-title{
@@ -714,13 +718,17 @@ nav{
     text-align: center;
 }
 .callMe-link{
-    height: 60px;
-    width: 220px;
+    margin-top: 7vh;
+    height: 15vh;
+    /* width: 220px; */
+    width: 15vw;
     float: left;
-    margin: 0 20px;
+    margin: 0 2vw;
 }
 .callMe-link-1{
-    background: url('../images/ico_bg.png') 0px -130px no-repeat;
+    /* background: url('../images/ico_bg.png') 0px -130px no-repeat; */
+    background: url('../images/wangyiyouxiang.png') center no-repeat;
+    background-size: 90% auto;
 }
 .callMe-link-2{
     background: url('../images/wangyiyouxiang.png') center no-repeat;
