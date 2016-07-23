@@ -141,9 +141,14 @@ nav{
 .info-content{
     font-size: 16px;
     color: #fff;
-    height: 500px;
-    width: 1000px;
-    margin: 0 auto;
+    /* height: 500px; */
+    /* width: 1000px; */
+    position: fixed;
+    height: 50vh;
+    width: 50vw;
+    left: 25vw;
+    top: 100vh;
+    /* margin: 0 auto; */
     /*background-color: rgba(255,255,255,0.3);*/
 }
 .info-content-main{
