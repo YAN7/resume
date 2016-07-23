@@ -233,9 +233,11 @@ nav{
     overflow: hidden;
 }
 .war-content-w{
-    width: 1100px;
+    /* width: 1100px; */
+    width: 90vw;
+    padding-left: 3vw;
     height: auto;
-    margin: 0 auto;
+    /* margin: 0 auto; */
 }
 .war-skill-bg{
     float: left;
@@ -245,9 +247,13 @@ nav{
     display: none;
 }
 .war-content-skill{
-    width: 900px;
+    /* width: 900px; */
+    /* height: 70%; */
+    width: 80vw;
+    height: 50vh;
+    top: 200vh;
+    /* left: 15vw; */
     min-height: 500px;
-    height: 70%;
     margin-left: 100px;
 }
 .skill_list{
@@ -322,11 +328,16 @@ nav{
     right: 0;
 }
 .practice-content{
-    position: relative;
     z-index: 910;
-    height: 500px;
-    width: 1000px;
-    margin: 0 auto;
+    /* position: relative; */
+    /* height: 500px; */
+    /* width: 1000px; */
+    /* margin: 0 auto; */
+    position: fixed;
+    width: 50vw;
+    height: 50vh;
+    left: 25vw;
+    top: 300vh;
     color: #2db8ad;
     font-size: 24px;
     line-height: 40px;
@@ -388,8 +399,13 @@ nav{
     /*position: relative;
     z-index: 910;
     height: 500px;*/
-    width: 1100px;
-    margin: 0 auto;
+    /* width: 1100px; */
+    /* margin: 0 auto; */
+    position: fixed;
+    width: 90vw;
+    height: 80vh;
+    left: 5vw;
+    top: 400vh;
     overflow: hidden;
 }
 .war-project-bg{
@@ -494,13 +510,18 @@ nav{
     /*position: relative;
     z-index: 910;
     height: 500px;*/
-    width: 1100px;
-    margin: 0 auto;
+    /* width: 1100px; */
+    position: fixed;
+    top: 500vh;
+    left: 25vw;
+    width: 55vw;
+    height: 50vh;
+    /* margin: 0 auto; */
     background: url('../images/bg6.png') center bottom no-repeat;
 }
 .education-list-war{
     overflow: hidden;
-    width: 580px;
+    /* width: 580px; */
     margin: 0 auto;
 }
 .education-list{
@@ -508,14 +529,15 @@ nav{
     cursor: pointer;
     height: auto;
     min-height: 71px;
-    width: 140px;
+    /* width: 140px; */
+    width: 12.5vw;
     margin: 0 2px;
 }
 .education-list-title{
     text-align: center;
-    height: 50px;
-    line-height: 50px;
-    font-size: 20px;
+    height: 5vw;
+    line-height: 5vw;
+    font-size: 2vw;
     background-color: #ff9daa;
     border-bottom: 1px solid rgba(255,255,255,0.3);
     border-radius: 5px 5px 0 0;
@@ -586,12 +608,20 @@ nav{
 .hobby_main{
     /*height: 500px;
     width: 1000px;*/
-    height: 0;
-    width: 0;
-    margin-left: 50%;
-    margin-top: 50%;
+    /* height: 0; */
+    /* width: 0; */
+    position: fixed;
+    width: 90vw!important;
+    left: 5vw;
+    /* height: 50vh; */
+    /* height: 500px; */
+    height: 70vh;
+    top: 620vh;
+
+    /* margin-left: 50%; */
+    /* margin-top: 50%; */
     background: rgba(255, 255, 255, 0.1);
-    position: relative;
+    /* position: relative; */
     overflow: hidden;
     border-radius: 5px 0 5px 0;
 }
