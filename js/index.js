@@ -24,7 +24,7 @@ $(document).ready(function(){
 		var aPractice=data.practice[0];
 		$('#practice-content').append(
 			'<div class="company-logo" style="background: '+ aPractice.logo +'"></div>'+
-			'<div class="company-dept">'+ aPractice.dept +'</div>'+
+			'<div class="company-dept"><a class="company-link" href="'+aPractice.link+'">' + aPractice.dept +'</a></div>'+
 			'<div class="company-work">'+ aPractice.work +'</div>'+
 			'<div class="company-time">'+ aPractice.time +'</div>'+
 			'<div class="company-info">'+ aPractice.info +'</div>');

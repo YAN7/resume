@@ -31,6 +31,9 @@ header{
     top: 0;
     left: 0;
 }
+header ul {
+    position: relative;
+}
 #logo{
     display: block;
     height: 50px;
@@ -58,6 +61,16 @@ nav{
 .nav:hover{
     color: #ff9daa;
     border-bottom: 1px solid #ff9daa;
+}
+.weixin {
+    position: absolute;
+    right: -150px;
+    top: 60px;
+    transition: all 1s ease-out;
+}
+#nav-project:hover .weixin{
+    right: 20px;
+    transition: all 1s ease-out;
 }
 
 /*content-----------------------------------------------------------------*/
@@ -339,7 +352,7 @@ nav{
     left: 25vw;
     top: 300vh;
     color: #2db8ad;
-    font-size: 24px;
+    font-size: 18px;
     line-height: 40px;
     text-align: center;
 }
@@ -356,6 +369,12 @@ nav{
 .company-time{
     font-size: 16px;
     color: #999;
+}
+.company-dept {
+    font-size: 25px;
+}
+.company-link {
+    color: #2db8ad;
 }
 
 
@@ -733,7 +752,7 @@ nav{
 }
 .callMe-link-1{
     /* background: url('../images/ico_bg.png') 0px -130px no-repeat; */
-    background: url('../images/wangyiyouxiang.png') center no-repeat;
+    background: url('../images/github.png') center no-repeat;
     background-size: 90% auto;
 }
 .callMe-link-2{

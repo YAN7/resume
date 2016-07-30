@@ -11,8 +11,8 @@
   "lab": "计算机科学与技术",
   "hobby": [
     "写代码--人生最大乐趣",
-    "逛github--浏览大牛的源码",
-    "浏览网页--没事时到处寻找设计精美的网页",
+    "逛github--浏览大牛的源码,查找热门开源项目",
+    "浏览网页--没事时到处寻找设计精美的网页并收藏下来",
     "跑步--身体是最重要的",
     "听歌--代码写烦了就听歌轻松下"
   ],
@@ -25,29 +25,29 @@
   ],
   "skill": [
     {
-      "HTML": "75%-#FCC748",
-      "CSS": "75%-#CDF0E9",
-      "JavaScript": "70%-#BADF90",
+      "HTML": "65%-#FCC748",
+      "CSS": "65%-#CDF0E9",
+      "JavaScript": "60%-#BADF90",
       "jQuery": "60%-#F2B88B",
       "Ajax": "50%-#91E0F1",
-      "PHP": "35%-#14CDD6",
-      "NodeJs": "30%-#F36B6B",
-      "CSS3": "35%-#29DE6B",
-      "HTML5": "40%-#FFF228",
-      "MongoDb": "30%-#F78EA6",
-      "MySQL": "50%-#17C8A8",
-      "PhotoShop": "60%-#81A8F6"
+      "CSS3": "45%-#14CDD6",
+      "HTML5": "50%-#F36B6B",
+      "Angular": "35%-#29DE6B",
+      "PHP": "20%-#FFF228",
+      "NodeJs": "30%-#F78EA6",
+      "React": "50%-#17C8A8",
+      "MongoDb": "30%-#81A8F6"
     }
   ],
   "practice": [
     {
-      "name": "imovie",
+      "name": "MovieGuide",
       "logo": "url('./images/ico_bg.png') -220px -570px no-repeat",
-      "time": "2016/06/7-2016/07/18",
-      "dept": "Angular-单页面应用",
-      "work": "前端开发",
-      "link": "http://www.mogujie.com",
-      "info": ""
+      "time": "2016/07/23-2016/07/29",
+      "dept": "MovieGuide",
+      "work": "",
+      "link": "https://yan7.github.io/MovieGuide/app/index.html",
+      "info": "这是使用angular构建的一个单页面应用，通过调用豆瓣api实现了实时请求数据，是一个真正可用的电影查询网站.每个功能一个模块，实现了项目的模块化，组件化思想，同时使用了webpack打包项目,使项目更加完整，更接近于实际的工作流程."
     }
   ],
   "coding": [
