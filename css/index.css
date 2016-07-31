@@ -626,26 +626,29 @@ nav{
     margin: 0 auto;
 }
 .hobby_main{
-    /*height: 500px;
-    width: 1000px;*/
-    /* height: 0; */
-    /* width: 0; */
-    position: fixed;
-    width: 90vw!important;
+
+/*  position: fixed;
+    width: 90vw;
     left: 5vw;
-    /* height: 50vh; */
-    /* height: 500px; */
-<<<<<<< HEAD
-    height: 70vh;
-    top: 620vh;
-=======
+    height: 50vh;
+    height: 500px;
     height: 90vh;
     top: 612vh;
->>>>>>> master
-    /* margin-left: 50%; */
-    /* margin-top: 50%; */
+    margin-left: 50%;
+    margin-top: 50%;
     background: rgba(255, 255, 255, 0.1);
-    /* position: relative; */
+    position: relative;
+    overflow: hidden;
+    border-radius: 5px 0 5px 0;
+ */
+    height: 0;
+    width: 0;
+    margin-left: 50%;
+    margin-top: 50%;
+    background: rgba(255, 255, 255, 0.1);
+    position: relative;
+    /* position: absolute; */
+    /* left: -5vw; */
     overflow: hidden;
     border-radius: 5px 0 5px 0;
 }

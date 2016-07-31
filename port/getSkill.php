@@ -1,6 +1,6 @@
 
 	<?php
-	header("Content-type:text/html;charset=utf-8");  
+	header("Content-type:text/html;charset=utf-8");
 
 	$conn=mysql_connect("qdm162701456.my3w.com:3306","qdm162701456","ztf123245");
 	$select=mysql_select_db("qdm162701456_db",$conn);
